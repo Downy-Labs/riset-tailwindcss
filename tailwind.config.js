@@ -9,6 +9,9 @@ module.exports = {
         128: "32rem",
         144: "36rem",
       },
+      fontFamily :{
+        inter: ['Inter']
+      }
     },
   },
   plugins: [],
