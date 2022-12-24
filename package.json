@@ -1,0 +1,15 @@
+{
+  "name": "belajar-tailwindcss",
+  "version": "1.0.0",
+  "description": "belajar experimental",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laludonisetiawan",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
